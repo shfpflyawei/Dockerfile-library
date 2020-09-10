@@ -1,1 +1,1 @@
-FROM gcr.io/kubeflow-images-public/pytorch-operator:v1.0.0-g047cf0f
+FROM gcr.io/google_containers/spartakus-amd64:v1.1.0
