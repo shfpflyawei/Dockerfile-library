@@ -1,1 +1,1 @@
-FROM gcr.io/kfserving/kfserving-controller:0.2.2
+FROM gcr.io/kubeflow-images-public/kfam:v1.0.0-gf3e09203
