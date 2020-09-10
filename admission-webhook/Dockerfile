@@ -1,1 +1,1 @@
-FROM gcr.io/kubeflow-images-public/metadata:v0.1.11
+FROM gcr.io/ml-pipeline/envoy:metadata-grpc
