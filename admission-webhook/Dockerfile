@@ -1,1 +1,1 @@
-FROM gcr.io/ml-pipeline/envoy:metadata-grpc
+FROM gcr.io/tfx-oss-public/ml_metadata_store_server:v0.21.1
