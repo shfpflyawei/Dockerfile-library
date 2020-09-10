@@ -1,1 +1,1 @@
-FROM gcr.io/kubeflow-images-public/metadata-frontend:v0.1.8
+FROM minio/minio:RELEASE.2018-02-09T22-40-05Z
