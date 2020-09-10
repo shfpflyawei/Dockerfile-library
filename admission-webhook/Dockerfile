@@ -1,1 +1,1 @@
-FROM gcr.io/spark-operator/spark-operator:v1beta2-1.0.0-2.4.4
+FROM gcr.io/kubeflow-images-public/centraldashboard:v1.0.0-g3ec0de71
