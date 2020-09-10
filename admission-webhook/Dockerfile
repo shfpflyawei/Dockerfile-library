@@ -1,1 +1,1 @@
-FROM gcr.io/kubeflow-images-public/pytorch-operator:v1.0.0-g047cf0f
+FROM docker.io/seldonio/seldon-core-operator:1.0.1
