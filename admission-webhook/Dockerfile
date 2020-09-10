@@ -1,1 +1,1 @@
-FROM gcr.io/kubeflow-images-public/kubernetes-sigs/application:1.0-beta
+FROM gcr.io/kubebuilder/kube-rbac-proxy:v0.4.0
