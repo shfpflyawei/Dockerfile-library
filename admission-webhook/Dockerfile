@@ -1,1 +1,1 @@
-FROM gcr.io/kubeflow-images-public/kfam:v1.0.0-gf3e09203
+FROM kong-docker-kubernetes-ingress-controller.bintray.io/kong-ingress-controller:1.0
