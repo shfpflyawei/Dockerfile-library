@@ -1,7 +1,8 @@
 FROM centos:7
 MAINTAINER test
 WORKDIR /usr/local/download
-RUN yum install -y python3 git  
+RUN yum install -y  git  
+RUN yum -y install python3
 RUN git clone https://github.com/cr0hn/dockerscan.git
 RUN python3 -m pip install -U pip && \
   python3 -m pip install -r requirement.txt 
