@@ -1,1 +1,1 @@
-FROM gcr.io/kubeflow-images-public/notebook-controller:v1.1.0-gd3377cbd
+FROM quay.io/jetstack/cert-manager-webhook:v0.11.0
