@@ -1,1 +1,1 @@
-FROM docker.io/chongchuanbing/kubeflow-images-public.metadata:v0.1.11
+FROM docker.io/chongchuanbing/kubeflow-images-public.notebook-controller:v1.1.0-gd3377cb
