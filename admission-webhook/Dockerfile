@@ -1,1 +1,1 @@
-FROM gcr.io/kubeflow-images-public/tensorflow-2.1.0-notebook-gpu:1.0.0
+FROM gcr.io/istio-release/citadel:release-1.3-latest-daily
