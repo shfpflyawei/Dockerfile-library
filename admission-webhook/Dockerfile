@@ -1,1 +1,1 @@
-FROM gcr.io/knative-releases/knative.dev/serving/cmd/controller@sha256:5ca13e5b3ce5e2819c4567b75c0984650a57272ece44bc1dabf930f9fe1e19a1
+FROM gcr.io/kubeflow-images-public/tensorflow-1.15.2-notebook-cpu:1.0.0
