@@ -1,1 +1,1 @@
-FROM gcr.io/istio-release/kubectl:release-1.3-latest-daily
+FROM gcr.io/kubeflow-images-public/tf_operator:vmaster-ga2ae7bff
