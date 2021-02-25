@@ -1,1 +1,1 @@
-FROM docker.io/chongchuanbing/kubeflow-images-public.jupyter-web-app:v1.1.0-gd3377cbd
+FROM docker.io/chongchuanbing/ml-pipeline.envoy:metadata-grpc
