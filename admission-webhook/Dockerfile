@@ -1,1 +1,1 @@
-FROM gcr.io/kubeflow-images-public/tf_operator:vmaster-ga2ae7bff
+FROM gcr.io/tfx-oss-public/ml_metadata_store_server:v0.21.1
