@@ -1,1 +1,1 @@
-FROM docker.io/chongchuanbing/kubeflow-images-public.notebook-controller:vmaster-gf39279c0
+FROM docker.io/chongchuanbing/kubeflow-images-public.jupyter-web-app:v1.1.0-gd3377cbd
