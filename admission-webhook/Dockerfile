@@ -1,1 +1,1 @@
-FROM gcr.io/kfserving/storage-initializer:v0.3.0
+FROM gcr.io/istio-release.proxy_init:release-1.3-latest-daily
