@@ -1,1 +1,1 @@
-FROM gcr.io/tfx-oss-public/ml_metadata_store_server:v0.21.1
+FROM gcr.io/kfserving/storage-initializer:v0.3.0
