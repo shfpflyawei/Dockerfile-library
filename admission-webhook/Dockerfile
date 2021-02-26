@@ -1,1 +1,1 @@
-FROM gcr.io/istio-release/pilot:release-1.3-latest-daily
+FROM gcr.io/istio-release/mixer:release-1.3-latest-daily
