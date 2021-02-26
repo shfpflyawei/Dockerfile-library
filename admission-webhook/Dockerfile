@@ -1,1 +1,1 @@
-FROM  gcr.io/kubeflow-images-public/jupyter-web-app:v1.0.0-g2bd63238
+FROM  gcr.io/kubebuilder/kube-rbac-proxy:v0.4.0
