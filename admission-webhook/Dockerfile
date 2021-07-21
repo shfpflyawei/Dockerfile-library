@@ -1,1 +1,1 @@
-FROM  gcr.io/kubeflow-images-public/katib/v1alpha3/suggestion-hyperopt:v0.8.0
+FROM  k8s.gcr.io/sig-storage/csi-node-driver-registrar:v2.0.1
