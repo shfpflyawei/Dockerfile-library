@@ -1,1 +1,1 @@
-FROM  gcr.io/distroless/static:nonroot
+FROM  wedatasphere/prophecis:mf-server-v0.3.0
