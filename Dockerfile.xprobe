@@ -1,0 +1,1 @@
+FROM xprobe/xinference:latest
