@@ -1,1 +1,1 @@
-FROM  wedatasphere/prophecis:mf-server-v0.3.0
+FROM  apache/apisix:2.13.3-centos
